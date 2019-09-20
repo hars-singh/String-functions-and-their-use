@@ -3,7 +3,7 @@
 using namespace std;
 int main() 
 {  
-    // b has less ASCII value than g 
+    // f has greater ASCII value than A 
     char leftStr[] = "bfb"; 
     char rightStr[] ="bAb"; 
       
